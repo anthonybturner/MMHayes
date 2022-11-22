@@ -1,0 +1,16 @@
+﻿.header {
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 6px 6px 0 0;
+    padding: 16px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+    border: 1px solid #ccc;
+}
+.form-row{
+    margin-bottom: 28px;
+}
+.error {
+
+    border-color: red;
+}
